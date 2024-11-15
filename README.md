@@ -6,7 +6,7 @@ This project bridges the communication gap between sign language users and non-s
 
 ---
 
-## 🧐 Introduction
+## 📖 Introduction
 Sign language is vital for communication among the deaf and mute community, yet many non-signers find it difficult to understand. This project addresses this gap by translating hand gestures into text and speech in real-time using a CNN-based model.
 
 ---
@@ -80,6 +80,7 @@ Sign language is vital for communication among the deaf and mute community, yet 
 - **Overall Accuracy**: 96.26%
 - **Robustness**: Tested across varied lighting conditions with acceptable performance.
 
+---
 
-🎥 Project Demonstration
+## 🎥 Project Demonstration
 For a complete walkthrough of the project, check out the demo video: final_demo.mp4
