@@ -83,4 +83,4 @@ Sign language is vital for communication among the deaf and mute community, yet 
 ---
 
 ## 🎥 Project Demonstration
-For a complete walkthrough of the project, check out the demo video: final_demo.mp4
+For a complete walkthrough of the project, check out the demo video-> [https://drive.google.com/file/d/1Y5GPxAQtML80myOUzTwA4sIiH7j4OpK9/view?usp=sharing](url)
